@@ -1,8 +1,9 @@
-# Shelter plugins monorepo
+## THIS IS BEING ACTIVELY UPDATED
 
-This is a monorepo for Shelter plugins.
-Plugin sources can be found in the /plugins package, while the website source can be found in the /site package.
-The full list of plugins, along with easier installation instructions, can be found on the [deployed site](https://shelter.xirreal.dev).
+## ShelterMocha Install Page (forked from the [shelter-plugins monorepo](https://github.com/xirreal-plugins/shelter-plugins))
+
+
+The plugins, along with easier installation instructions, can be found on the [deployed site]().
 
 ### License
 
